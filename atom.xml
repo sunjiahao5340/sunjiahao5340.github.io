@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mirror Dream</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-12-04T11:13:59.973Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Sunjiahao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>dream</title>
+    <link href="http://example.com/2021/12/04/dream/"/>
+    <id>http://example.com/2021/12/04/dream/</id>
+    <published>2021-12-04T11:12:12.000Z</published>
+    <updated>2021-12-04T11:13:59.973Z</updated>
+    
+    <content type="html"><![CDATA[<p> 唐李贺《苦昼短》</p><p>飞光飞光，劝尔一杯酒。<br>吾不识青天高，黄地厚。<br>唯见月寒日暖，来煎人寿。<br>食熊则肥，食蛙则瘦。<br>神君何在？太一安有？<br>天东有若木，下置衔烛龙。<br>吾将斩龙足，嚼龙肉，使之朝不得回，夜不得伏。<br>自然老者不死，少者不哭。<br>何为服黄金、吞白玉？<br>谁似任公子，云中骑碧驴？<br>刘彻茂陵多滞骨，嬴政梓棺费鲍鱼。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt; 唐李贺《苦昼短》&lt;/p&gt;
+&lt;p&gt;飞光飞光，劝尔一杯酒。&lt;br&gt;吾不识青天高，黄地厚。&lt;br&gt;唯见月寒日暖，来煎人寿。&lt;br&gt;食熊则肥，食蛙则瘦。&lt;br&gt;神君何在？太一安有？&lt;br&gt;天东有若木，下置衔烛龙。&lt;br&gt;吾将斩龙足，嚼龙肉，使之朝不得回，夜不得伏。&lt;br&gt;自然老者</summary>
+      
+    
+    
+    
+    
+    <category term="dream" scheme="http://example.com/tags/dream/"/>
+    
+  </entry>
+  
+</feed>
